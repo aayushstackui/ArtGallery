@@ -28,8 +28,5 @@ ArtGalleryApp is an iOS application that allows users to explore and manage art 
 3. Install dependencies if required.
 4. Run the project on an iOS simulator or device.
 
-## Contribution
-Feel free to fork the repository, submit issues, or create pull requests to contribute to the development of ArtGalleryApp.
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
